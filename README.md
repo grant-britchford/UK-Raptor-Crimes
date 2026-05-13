@@ -79,11 +79,14 @@ Non needed.
 - Added a Month_Num column.
 
 ## 13. Analysis
-**Univariate**
-- Top 10 Countries by Quantity.
-**Findings**: The UK has the highest Quantity score.
+**Cleaning**
+- Checked for Nulls.
+- Checked for Duplicates.
+- Standardised the text.
+- Validated the Year range.
+- Fixed the Month ordering by creating a numeric Month column.
 
-- Top 10 Products.
+- Total Incidents
 **Findings**: The best Product for Quantity was the 'WW2 Glider Asstd Designs'.
 
 **Bivariate**
