@@ -48,42 +48,35 @@ The 8 Columns are: ObjectID, RSPB_Reference, County, Country, Incident_Type, Mon
 ## 8. Project Scope & Tools
 
 ### 9. Scope
-**In Scope**: All 8 columns can be used for the analysis.
+**In Scope**: ObjectID (Primary Key), County, Country, Incident_Type, Month, Year, Grid_Square
 
-**Out of Scope**: During the EDA, I will exclude all stock codes beginning with 'C' as these are cancelled orders/transactions
-and could skew the results. I will use the cancelled orders for the dashboard.
+**Out of Scope**: I did not use the Details, More_Info, GlobalID columns as these columns do not contain any relevant information for analysis purposes.
+The Details Column has strings, which include the species involved. However i couldn't separate the birds out of the column as the strings are all different lengths.
 
 ### 10. Tools & Technology
-- Jupyter Notebook - This will be used for the Analysis part of the project.
+- MySQL Workbench - Used for cleaning and analysis processes.
 - CSV file - The dataset is in a CSV format.
-- Power BI - Will be used to create the dashboard in the final step.
-- Power BI Service - To share the dashboard.
+- Tableau Public - Used for the dashboard.
 
 ## 11. Missing Data
 **Null values**:
-Description - 4382 (22.77%)
-Customer ID - 243007 (0.41%)
+No Null values found.
 
 **Negative Values**:
-Customer ID - this shows that orders were from guest orders or that the order was cancelled.
-Quantity - There are negative values in the Quantity column, which match the Cancelled orders/transactions.
+No negative values found.
 
 ## 12. Data Cleaning
 **Null Values**
-- Customer ID - Changed all 0 values and null values to 0 to represent Guest checkouts.
+Not Needed.
 
 **Empty Values**
-- Quantity - All 0 values in Quantity related to Cancelled orders/transactions, these were removed as they would skew the results.
-- Price - All 0 values in Price related to Cancelled orders/transactions, these were removed so they did not skew the results.
+All values were in place and correct.
 
 **Data Type Changes**
-- InvoiceDate - Changed the InvoiceDate from an object to datetime.
-- Customer ID - Changed from float to int.
-- Customer ID - Changed from float64 to int64.
+Non needed.
 
 **New Columns Added**
-- Weekday - Added a weekday column to make trend analysis easier.
-- TotalSales - Makes the transactions easier to analyse in full cost.
+- Added a Month_Num column.
 
 ## 13. Analysis
 **Univariate**
