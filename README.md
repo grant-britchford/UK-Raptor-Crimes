@@ -120,17 +120,17 @@ Non needed.
 - There is hotspot clustering all over the UK.
 
 ## 15. Recommendations
-1. Target the high RFM-score customers with a loyalty program involving discounts and personalized offers.
-2. Launch peak month campaigns to maximise conversions.
-3. Focus stock and marketing on the top-selling categories to improve inventory efficiency.
-4. Launch a campaign to convert guest accounts to loyal customers.
+1. Focus on High-risk counties and the known grid hotspots.
+2. Ban certain harmful pesticides and increase the penalties for usage.
+3. GPS tag birds and keep surveillance in the hotspot areas.
+4. Educate land owners and promote conservation ethics.
 
 ## 16. Dashboard
-[Amos Giftwares Sales Dashboard](https://app.powerbi.com/links/aYBTFAwTp0?ctid=3ea7c128-c601-4479-a003-e14d00c0b5cb&pbi_source=linkShare)
+[UK Raptor Crimes Dashboard]()
 
 ## 17. Author
 **Grant Britchford**
 
 Data Analyst
 
-*Date: 21st March 2026*
+*Date: 14th May 2026*
