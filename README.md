@@ -1,4 +1,4 @@
-# Project Template
+# UK Raptor Crimes
 
 ## Contents Table
 - [Introduction](#1-introduction)
@@ -22,20 +22,17 @@
 ## 1. Introduction
 
 ### 2. Overview
-Amos Giftware is a UK-based online retail store that sells unique all-occasion gifts.
-The company provides to the general public and to a large percentage of international wholesalers.
+This project involves the analysis of raptor crimes in the UK. And to define better protection for these birds.
 
 ### 3. Business Questions
-- What are our customer behaviour trends?
-- Which are the top products sold?
-- Is there a trend in sales?
-- Can we identify loyal customers?
-- Can we identify customers that could become churn?
-- What are our best Countries for sales?
-
+- What are the most common types of raptor crimes?
+- Which counties have the highest number of incidents?
+- How have the incidents changed over time?
+- Are there crime hotspots?
+- Which types of incidents are most common and in which counties?
+- 
 ## 4. Dataset Overview
-The dataset is the online_retail_II dataset sourced from [Kaggle.com](https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci).
-And covers the years 2009 - 2011.
+The dataset is the RaptorCrimesUK.csv, which was sourced from [The RSPB Open Data Portal](https://opendata-rspb.opendata.arcgis.com/search?tags=birdcrime)
 
 ### 5. Dataset Shape
 **Rows**: 1067371.
