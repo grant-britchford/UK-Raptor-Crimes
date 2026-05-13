@@ -87,33 +87,37 @@ Non needed.
 - Fixed the Month ordering by creating a numeric Month column.
 
 - Total Incidents
-**Findings**: The best Product for Quantity was the 'WW2 Glider Asstd Designs'.
+**Findings**: Between the years 2007 and 2024, there have been 1894 raptor crimes.
 
-**Bivariate**
-- Top 10 Countries by Total Sales.
-**Findings**: The UK, top Total Sales, with Eire and the Netherlands following 2nd and 3rd.
+- Incident Types.
+**Findings**: The top 3 Incident types are Shooting, Poisoning, and Trapping.
 
-- Monthly Sales Trend.
-**Findings**: In 2010 and 2011, October is the best Month for sales. This is because of the Christmas period.
+- Country Incidents.
+**Findings**: England tops the countries with a total of 1094 incidents.
 
-- Daily Sales Trend.
-**Findings**: The sales trends are even in both years. The most notable drops are in 2010 for May and August.
+- County Incidents.
+**Findings**: The top 2 counties for incidents are North Yorkshire and the Scottish Borders.
 
-- Weekday Sales.
-**Findings**: Saturday is the worst day, and Sunday 2nd worst. The best 2 days for sales are Thursday & Tuesday.
+- Month Incidents.
+**Findings**: The top 3 Months for incidents are April, May, and March.
 
-**RFM (Regency, Frequency, Monetary)**
-- Distribution of RFM counts.
-**Findings**: The scores are in 9 bins. The highest count bin is the 9th with 1200 counts. The other 8 bins are even with around 600 counts each.
+- Yearly Incidents.
+**Findings**: All Years have the same top 3 incident types, which are Poisoning, Shooting, and Trapping, in that order.
 
-- Top 15 Customers.
-**Findings**: Customer ID 15380 is the top customer. Above Customer 15380 are all the Guest buyers.
+- County Incident Totals.
+**Findings**: North Yorkshire topped the list with 94 Shooting incidents.
+
+- Top Grid Square for Incidents.
+**Findings**: The grid square NT35 was the top mapping total with 34. This makes Nottingham the top incident area.
+
+- Top species harmed.
+**Findings**: The raptor that takes the top spot for crimes against is the Buzzard.
 
 ## 14. Key Findings
-- The UK contributes the most sales.
-- November & December are the peak spikes in sales. This is due to the Christmas Period.
-- The top products sold are in the gift & decorative categories.
-- RFM segmentation identifies both loyal and non-loyal customers.
+- **Counties**: North Yorkshire, Scottish Borders, and the Highlands frequently appear.
+- **Species**: The Buzzard, Red Kite, and Peregrine Falcon are the most targeted species.
+- Spring and Summer are the most active for peak incidents.
+- There is hotspot clustering all over the UK.
 
 ## 15. Recommendations
 1. Target the high RFM-score customers with a loyalty program involving discounts and personalized offers.
