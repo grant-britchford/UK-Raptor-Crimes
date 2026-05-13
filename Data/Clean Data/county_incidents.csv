@@ -1,0 +1,293 @@
+County,Incident_Type,county_incident_total
+"North Yorkshire",shooting,94
+"North Yorkshire",poisoning,57
+"Scottish Borders",poisoning,53
+Highland,poisoning,44
+"Dumfries and Galloway",poisoning,35
+"North Yorkshire",trapping,34
+Norfolk,shooting,33
+"Scottish Borders",shooting,29
+Powys,poisoning,29
+"Perth and Kinross",poisoning,26
+Northumberland,shooting,24
+Derbyshire,shooting,22
+Cumbria,shooting,21
+"North Yorkshire","persecution (other)",21
+Angus,poisoning,21
+Suffolk,shooting,21
+"Scottish Borders",trapping,20
+"County Durham",shooting,20
+Down,poisoning,20
+Highland,trapping,19
+"East Riding of Yorkshire",shooting,19
+Highland,shooting,19
+Angus,trapping,19
+Herefordshire,poisoning,19
+Aberdeenshire,trapping,18
+"West Yorkshire",shooting,18
+"South Lanarkshire",poisoning,17
+Armagh,poisoning,17
+Aberdeenshire,shooting,17
+Norfolk,poisoning,17
+Cambridgeshire,shooting,17
+Lincolnshire,poisoning,17
+Angus,shooting,17
+Dorset,shooting,16
+Antrim,poisoning,16
+Wiltshire,"persecution (other)",16
+Lancashire,shooting,15
+Derbyshire,poisoning,15
+Norfolk,trapping,14
+"South Yorkshire",shooting,14
+Cumbria,trapping,13
+Herefordshire,shooting,13
+Kent,shooting,13
+Powys,shooting,13
+Lincolnshire,trapping,12
+Gloucestershire,shooting,12
+Shropshire,shooting,12
+Shropshire,poisoning,12
+Down,shooting,12
+"Perth and Kinross",trapping,12
+Hertfordshire,shooting,12
+"South Lanarkshire",shooting,12
+Shropshire,trapping,11
+"East Ayrshire",poisoning,11
+Bedfordshire,shooting,10
+Northamptonshire,shooting,10
+Cumbria,poisoning,10
+Essex,shooting,10
+"Dumfries and Galloway",shooting,9
+"South Lanarkshire",trapping,9
+"Perth and Kinross",shooting,9
+Leicestershire,shooting,9
+Lincolnshire,shooting,9
+Tyrone,poisoning,9
+Devon,shooting,9
+Stirling,poisoning,8
+Aberdeenshire,poisoning,8
+Wiltshire,shooting,8
+Derbyshire,trapping,8
+Cornwall,shooting,8
+Devon,poisoning,8
+Hampshire,shooting,8
+"County Durham","persecution (other)",8
+Midlothian,poisoning,7
+Fife,shooting,7
+Londonderry,poisoning,7
+"County Durham",poisoning,7
+Denbighshire,poisoning,7
+Gloucestershire,poisoning,7
+Staffordshire,poisoning,7
+"Perth and Kinross","persecution (other)",7
+Highland,"nest destruction",7
+Lincolnshire,"persecution (other)",7
+Northumberland,poisoning,7
+"Greater Manchester",shooting,7
+"Scottish Borders","persecution (other)",6
+Surrey,shooting,6
+Staffordshire,trapping,6
+Nottinghamshire,trapping,6
+"East Riding of Yorkshire",poisoning,6
+Suffolk,poisoning,6
+Buckinghamshire,shooting,6
+Highland,"persecution (other)",6
+Cambridgeshire,poisoning,6
+Northamptonshire,poisoning,6
+"South Lanarkshire","persecution (other)",6
+"East Sussex",shooting,6
+Conwy,poisoning,6
+Northumberland,trapping,6
+"Somerset & Avon",shooting,6
+Worcestershire,shooting,6
+"West Midlands",shooting,5
+Worcestershire,poisoning,5
+Hampshire,poisoning,5
+Wiltshire,trapping,5
+"Greater London",shooting,5
+Stirling,trapping,5
+Staffordshire,shooting,5
+Ceredigion,poisoning,5
+Merseyside,shooting,5
+Cumbria,"persecution (other)",5
+Wrexham,poisoning,5
+Midlothian,shooting,4
+"East Lothian",trapping,4
+"East Lothian",shooting,4
+Moray,poisoning,4
+"West Yorkshire","persecution (other)",4
+"South Ayrshire",poisoning,4
+"West Sussex",shooting,4
+Norfolk,"persecution (other)",4
+"Somerset & Avon",poisoning,4
+Carmarthenshire,poisoning,4
+"South Yorkshire",poisoning,4
+"West Yorkshire",trapping,4
+Monmouthshire,poisoning,4
+Hertfordshire,poisoning,4
+Buckinghamshire,poisoning,4
+Lancashire,"persecution (other)",4
+Antrim,shooting,4
+Oxfordshire,shooting,4
+Oxfordshire,trapping,4
+Dorset,"persecution (other)",4
+Fife,"persecution (other)",3
+Cleveland,shooting,3
+Northumberland,"persecution (other)",3
+"County Durham",trapping,3
+"West Yorkshire",poisoning,3
+Essex,poisoning,3
+Lancashire,trapping,3
+"Dumfries and Galloway",trapping,3
+Cornwall,poisoning,3
+Nottinghamshire,shooting,3
+Staffordshire,"nest destruction",3
+"Argyll and Bute",poisoning,3
+Angus,"persecution (other)",3
+Derbyshire,"persecution (other)",3
+Warwickshire,shooting,3
+Bedfordshire,poisoning,3
+Monmouthshire,shooting,3
+Stirling,shooting,3
+Renfrewshire,shooting,3
+Surrey,poisoning,3
+,shooting,3
+Armagh,shooting,3
+Warwickshire,trapping,3
+"North Yorkshire","nest destruction",3
+"Western Isles",poisoning,3
+Londonderry,shooting,3
+"West Sussex",poisoning,3
+Midlothian,trapping,2
+"East Lothian",poisoning,2
+"East Lothian","persecution (other)",2
+"Isle of Wight",shooting,2
+Pembrokeshire,poisoning,2
+Ceredigion,trapping,2
+Flintshire,poisoning,2
+"Vale of Glamorgan",shooting,2
+Berkshire,trapping,2
+"Neath Port Talbot",poisoning,2
+Rutland,poisoning,2
+Moray,"persecution (other)",2
+Aberdeenshire,"persecution (other)",2
+"West Midlands",poisoning,2
+Moray,trapping,2
+"Argyll and Bute","persecution (other)",2
+Wiltshire,poisoning,2
+"Tyne and Wear",shooting,2
+Falkirk,shooting,2
+Herefordshire,"persecution (other)",2
+Leicestershire,trapping,2
+"Argyll and Bute",shooting,2
+Gloucestershire,"nest destruction",2
+"West Lothian",poisoning,2
+"North Lanarkshire",poisoning,2
+Berkshire,shooting,2
+Merseyside,"persecution (other)",2
+Derbyshire,"nest destruction",2
+Herefordshire,trapping,2
+Fife,trapping,2
+Flintshire,shooting,2
+Wrexham,shooting,2
+"Dumfries and Galloway","persecution (other)",2
+Cheshire,shooting,2
+Aberdeenshire,"nest destruction",2
+Fife,poisoning,2
+Nottinghamshire,poisoning,2
+Staffordshire,"persecution (other)",2
+Kent,trapping,2
+Gloucestershire,trapping,2
+"Isle of Anglesey",poisoning,2
+Tyrone,shooting,2
+"Isle of Wight",trapping,2
+"Somerset & Avon",trapping,2
+Bridgend,poisoning,2
+Cheshire,trapping,2
+Dorset,poisoning,2
+Ceredigion,shooting,2
+"Edinburgh City","nest destruction",1
+"West Yorkshire","nest destruction",1
+Monmouthshire,trapping,1
+"South Ayrshire",shooting,1
+"Blaenau Gwent",shooting,1
+Worcestershire,"nest destruction",1
+"West Midlands",trapping,1
+Antrim,"persecution (other)",1
+Caerphilly,poisoning,1
+Leicestershire,poisoning,1
+"West Dunbartonshire",trapping,1
+"Glasgow City","persecution (other)",1
+"Dumfries and Galloway","nest destruction",1
+Lancashire,poisoning,1
+Torfaen,poisoning,1
+"East Ayrshire","persecution (other)",1
+Cleveland,trapping,1
+"Swansea City",poisoning,1
+Dorset,trapping,1
+Powys,"persecution (other)",1
+Gwynedd,"nest destruction",1
+Torfaen,trapping,1
+Londonderry,"persecution (other)",1
+"Isle of Anglesey",shooting,1
+"Tyne and Wear","persecution (other)",1
+Down,trapping,1
+Londonderry,"nest destruction",1
+"Somerset & Avon","persecution (other)",1
+Lincolnshire,"nest destruction",1
+Oxfordshire,"nest destruction",1
+"South Lanarkshire","nest destruction",1
+Gwynedd,poisoning,1
+Cambridgeshire,trapping,1
+Hampshire,trapping,1
+Cheshire,poisoning,1
+"East Riding of Yorkshire","persecution (other)",1
+Angus,"nest destruction",1
+"Western Isles","nest destruction",1
+Moray,shooting,1
+"East Sussex",poisoning,1
+"Neath Port Talbot",trapping,1
+Inverclyde,trapping,1
+Suffolk,"nest destruction",1
+Antrim,trapping,1
+"East Ayrshire",shooting,1
+Suffolk,trapping,1
+"Argyll and Bute","nest destruction",1
+Denbighshire,shooting,1
+"East Riding of Yorkshire",trapping,1
+Cumbria,"nest destruction",1
+"Perth and Kinross","nest destruction",1
+"North Lanarkshire",shooting,1
+Devon,trapping,1
+"Rhondda, Cynon, Taff",poisoning,1
+Pembrokeshire,shooting,1
+"Blaenau Gwent",poisoning,1
+Bedfordshire,trapping,1
+Midlothian,"nest destruction",1
+Carmarthenshire,shooting,1
+Tyrone,"nest destruction",1
+"Vale of Glamorgan",poisoning,1
+Down,"persecution (other)",1
+Hampshire,"persecution (other)",1
+"Scottish Borders","nest destruction",1
+Hampshire,"nest destruction",1
+Armagh,"persecution (other)",1
+Suffolk,"persecution (other)",1
+Conwy,"nest destruction",1
+Conwy,trapping,1
+"Belfast County Borough",poisoning,1
+"Somerset & Avon","nest destruction",1
+Cleveland,poisoning,1
+"Edinburgh City",shooting,1
+Wrexham,trapping,1
+"South Yorkshire","persecution (other)",1
+Denbighshire,trapping,1
+"Merthyr Tydfil",trapping,1
+Flintshire,"persecution (other)",1
+Shropshire,"persecution (other)",1
+Conwy,shooting,1
+"Edinburgh City",trapping,1
+Oxfordshire,"persecution (other)",1
+Kent,"persecution (other)",1
+,poisoning,1
+Fermanagh,"nest destruction",1
