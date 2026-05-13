@@ -30,21 +30,20 @@ This project involves the analysis of raptor crimes in the UK. And to define bet
 - How have the incidents changed over time?
 - Are there crime hotspots?
 - Which types of incidents are most common and in which counties?
-- 
+
 ## 4. Dataset Overview
 The dataset is the RaptorCrimesUK.csv, which was sourced from [The RSPB Open Data Portal](https://opendata-rspb.opendata.arcgis.com/search?tags=birdcrime)
 
 ### 5. Dataset Shape
-**Rows**: 1067371.
-**Columns**: 8.
+**Rows**: 3645.
+**Columns**: 11.
 
 ### 6. Key Variables
-The 8 Columns are: Invoice, StockCode, Quantity, Description, InvoiceDate, Price, Customer ID, Country.
+The 8 Columns are: ObjectID, RSPB_Reference, County, Country, Incident_Type, Month, Year, Grid_Square, Details, More_Info, GlobalID
 
 ### 7. Data Types
-- object
+- String
 - int64
-- float64
 
 ## 8. Project Scope & Tools
 
