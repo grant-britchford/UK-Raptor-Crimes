@@ -93,30 +93,39 @@ Non needed.
 - Fixed the Month ordering by creating a numeric Month column.
 
 - Total Incidents
+  
 **Findings**: Between the years 2007 and 2024, there have been 1894 raptor crimes.
 
 - Incident Types.
+  
 **Findings**: The top 3 Incident types are Shooting, Poisoning, and Trapping.
 
 - Country Incidents.
+  
 **Findings**: England tops the countries with a total of 1094 incidents.
 
 - County Incidents.
+  
 **Findings**: The top 2 counties for incidents are North Yorkshire and the Scottish Borders.
 
 - Month Incidents.
+  
 **Findings**: The top 3 Months for incidents are April, May, and March.
 
 - Yearly Incidents.
+  
 **Findings**: All Years have the same top 3 incident types, which are Poisoning, Shooting, and Trapping, in that order.
 
 - County Incident Totals.
+  
 **Findings**: North Yorkshire topped the list with 94 Shooting incidents.
 
 - Top Grid Square for Incidents.
+  
 **Findings**: The grid square NT35 was the top mapping total with 34. This makes Nottingham the top incident area.
 
 - Top species harmed.
+  
 **Findings**: The raptor that takes the top spot for crimes against is the Buzzard.
 
 ## 14. Key Findings
