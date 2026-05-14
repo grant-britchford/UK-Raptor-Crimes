@@ -51,7 +51,7 @@ The 8 Columns are: ObjectID, RSPB_Reference, County, Country, Incident_Type, Mon
 **In Scope**: ObjectID (Primary Key), County, Country, Incident_Type, Month, Year, Grid_Square
 
 **Out of Scope**: I did not use the Details, More_Info, GlobalID columns as these columns do not contain any relevant information for analysis purposes.
-The Details Column has strings, which include the species involved. However i couldn't separate the birds out of the column as the strings are all different lengths.
+The Details Column has strings, which include the species involved. However i couldn't separate the birds from the column as the strings are all different lengths.
 
 ### 10. Tools & Technology
 - MySQL Workbench - Used for cleaning and analysis processes.
@@ -60,22 +60,28 @@ The Details Column has strings, which include the species involved. However i co
 
 ## 11. Missing Data
 **Null values**:
+
 No Null values found.
 
 **Negative Values**:
+
 No negative values found.
 
 ## 12. Data Cleaning
 **Null Values**
+
 Not Needed.
 
 **Empty Values**
+
 All values were in place and correct.
 
 **Data Type Changes**
+
 Non needed.
 
 **New Columns Added**
+
 - Added a Month_Num column.
 
 ## 13. Analysis
