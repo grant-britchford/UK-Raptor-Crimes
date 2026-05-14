@@ -51,7 +51,7 @@ The 8 Columns are: ObjectID, RSPB_Reference, County, Country, Incident_Type, Mon
 **In Scope**: ObjectID (Primary Key), County, Country, Incident_Type, Month, Year, Grid_Square
 
 **Out of Scope**: I did not use the Details, More_Info, GlobalID columns as these columns do not contain any relevant information for analysis purposes.
-The Details Column has strings, which include the species involved. However i couldn't separate the birds out of the column as the strings are all different lengths.
+The Details Column has strings, which include the species involved. However i couldn't separate the birds from the column as the strings are all different lengths.
 
 ### 10. Tools & Technology
 - MySQL Workbench - Used for cleaning and analysis processes.
@@ -60,22 +60,28 @@ The Details Column has strings, which include the species involved. However i co
 
 ## 11. Missing Data
 **Null values**:
+
 No Null values found.
 
 **Negative Values**:
+
 No negative values found.
 
 ## 12. Data Cleaning
 **Null Values**
+
 Not Needed.
 
 **Empty Values**
+
 All values were in place and correct.
 
 **Data Type Changes**
+
 Non needed.
 
 **New Columns Added**
+
 - Added a Month_Num column.
 
 ## 13. Analysis
@@ -87,30 +93,39 @@ Non needed.
 - Fixed the Month ordering by creating a numeric Month column.
 
 - Total Incidents
+  
 **Findings**: Between the years 2007 and 2024, there have been 1894 raptor crimes.
 
 - Incident Types.
+  
 **Findings**: The top 3 Incident types are Shooting, Poisoning, and Trapping.
 
 - Country Incidents.
+  
 **Findings**: England tops the countries with a total of 1094 incidents.
 
 - County Incidents.
+  
 **Findings**: The top 2 counties for incidents are North Yorkshire and the Scottish Borders.
 
 - Month Incidents.
+  
 **Findings**: The top 3 Months for incidents are April, May, and March.
 
 - Yearly Incidents.
+  
 **Findings**: All Years have the same top 3 incident types, which are Poisoning, Shooting, and Trapping, in that order.
 
 - County Incident Totals.
+  
 **Findings**: North Yorkshire topped the list with 94 Shooting incidents.
 
 - Top Grid Square for Incidents.
+  
 **Findings**: The grid square NT35 was the top mapping total with 34. This makes Nottingham the top incident area.
 
 - Top species harmed.
+  
 **Findings**: The raptor that takes the top spot for crimes against is the Buzzard.
 
 ## 14. Key Findings
@@ -126,7 +141,7 @@ Non needed.
 4. Educate land owners and promote conservation ethics.
 
 ## 16. Dashboard
-[UK Raptor Crimes Dashboard]()
+[UK Raptor Crimes Dashboard](https://public.tableau.com/views/UKRaptorCrimes2007-2024/RaptorCrimesDashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## 17. Author
 **Grant Britchford**
